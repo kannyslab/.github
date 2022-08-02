@@ -51,25 +51,25 @@ Our dedicated team is enriched with not just designers. We are fully capable of 
 If you ever ask about the most important fact here at Kannys Lab, our answer would be you!. We have been devoting our hearts and minds to all our clients, helping them achieve success, and building lasting relationships. Our dedicated team always believes in co-creating the value that our clients deserve.
 </p>
 
----
+<table>
+    <tr>
+        <td>
+            <img src="https://i.imgur.com/usgxc1c.png" alt="" align="left" width="300" height="auto">
+            National Institute of Mental Health NIMH is the largest hospital for mental health in Sri Lanka. We partnered up with Rotaract club of University of Sri Jayewardenepura to renovate and relaunch the website with a more user-friendly interface and attractive features.
+            <a href="https://nimh.health.gov.lk/?utm_source=kannyslab_github&utm_medium=readme">View Project</a>
+        </td>
+    </tr>
+</table>
 
-### Official Website of National Institute of Mental Health
-
-<img src="https://i.imgur.com/usgxc1c.png" alt="" align="left" width="300" height="auto">
-
-National Institute of Mental Health NIMH is the largest hospital for mental health in Sri Lanka. We partnered up with Rotaract club of University of Sri Jayewardenepura to renovate and relaunch the website with a more user-friendly interface and attractive features.
-
-[View Project](https://nimh.health.gov.lk/?utm_source=kannyslab_github&utm_medium=readme)
-
----
-
-### Nestor Works Official Website
-
-<img src="https://i.imgur.com/9ql0exX.png" alt="" align="right" width="300" height="auto">
-
-Nestor Works has been a leading watch retailer in Sri Lanka since 1914. Our intention was to make their product line available to everyone and make a one-tap website.
-
-[View Project](https://nimh.health.gov.lk/?utm_source=kannyslab_github&utm_medium=readme)</p>
+<table>
+    <tr>
+        <td>
+            <img src="https://i.imgur.com/9ql0exX.png" alt="" align="right" width="300" height="auto">
+            Nestor Works has been a leading watch retailer in Sri Lanka since 1914. Our intention was to make their product line available to everyone and make a one-tap website.
+            <a href="https://www.nestorworks.lk/?utm_source=kannyslab_github&utm_medium=readme">View Project</a>
+        </td>
+    </tr>
+</table>
 
 <h1 align="center">You Decide. We Make.</h1>
 
