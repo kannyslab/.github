@@ -87,6 +87,4 @@ Let's bring your business online. Bring your dream structure or your need and in
 
 +94 71 015 5336 / +94 76 324 1609 / +94 78 309 4802
 
-<a href="tel:+94710155336">+94 71 015 5336</a> • <a href="tel:+94763241609">+94 76 324 1609</a> • <a href="tel:+94783094802">+94 78 309 4802</a>
-
 [Website](https://www.kannyslab.com?utm_source=kannyslab_github) • [Facebook](https://www.facebook.com/kannyslab?utm_source=kannyslab_github) • [LinkedIn](https://www.linkedin.com/company/kannyslab?utm_source=kannyslab_github)
